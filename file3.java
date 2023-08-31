@@ -6,7 +6,7 @@ public class First {
 	{
 		public void sleep()
 		{
-			
+			System.out.println("Hello");
 		}
 
 
